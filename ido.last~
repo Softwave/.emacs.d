@@ -1,0 +1,46 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/Discovery/Notes/" . "Projects/")
+ ("/Users/Discovery/Unity/Test/Assets/" . "Code/")
+ ("/Users/Discovery/Unity/Test/" . "Assets/")
+ ("/Users/Discovery/Unity/" . "Test/")
+ ("/Users/Discovery/" . "Unity/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/Discovery/Unity/Test/Assets/Code/"
+ "/Users/Discovery/Notes/Projects/"
+ "/Users/Discovery/Notes/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "RotateCube.cs"
+ "Emacs.md"
+ "Scratch.md"
+ "Wishlist.md"
+ "Weekly.md"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/Discovery/Unity/Test/Assets/Code/" (22154 3155 0 0) "RotateCube.cs.meta" "RotateCube.cs" "#RotateCube.cs#" "../" "./")
+
+ ("/Users/Discovery/Notes/Projects/" (22154 3510 0 0) "SpaceGame/" "Projects.md" "OrbGame.md" "Emacs.md~" "Emacs.md" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/" (22154 4113 0 0) "xgen/" "Workspace/" "Wine Files/" "VirtualBox VMs/" "Unity/" "tidal/" "Starters/" "src/" "Shaders/" "Scripts/" "ScratchPad.md" "quicklisp/" "Public/" "Projects/" "Pictures/" "OpenGL/" "Notes/" "Music/" "Movies/" "Local/" "Library/" "Learning3/" "Learning/" "GitHub/" "em/" "eclipse/" "Downloads/" "DOS Games/" "DOS/" "Documents/" "Dirt/" "Desktop/" "cowsay" "Code/" "Calibre Library/" "Books/" "bin/" "Backups/" "Art/" "Applications/" "anaconda/" "Adlm/" "_geexlab_log.txt" ".zshrc" ".zlogin" ".Xauthority" ".wapi/" ".vscode/" ".viminfo" ".Trash/" ".tooling/" ".thumbnails/" ".swp" ".subversion/" ".ssh/" ".sonic-pi.el/" ".sonic-pi/" ".slap/" ".sbclrc" ".rvm/" ".rnd" ".profile" ".p2/" ".overtone/" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".node-gyp/" ".mplayer/" ".mkshrc" ".matplotlib/" ".m2/" ".local/" ".lldb/" ".libgdx/" ".lein/" ".jupyter/" ".joe_state" ".irssi/" ".ipython/" ".gitconfig" ".ghc/" ".gem/" ".emscripten_sanity" ".emscripten_cache/" ".emscripten" ".emacs.d/" ".emacs-live-installer-tmp/" ".elm/" ".eclipse/" ".DS_Store" ".droiD64.cfg" ".continuum/" ".config/" ".CFUserTextEncoding" ".cache/" ".cabal/" ".boot/" ".blue/" ".bashrc" ".bash_sessions/" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_history" ".atom/" ".astropy/" ".appletviewer" "#ScratchPad.md#" "../" "./")
+
+ ("/Users/Discovery/Unity/Test/Assets/" (22152 17849 0 0) "testScene.unity.meta" "testScene.unity" "Standard Assets.meta" "Standard Assets/" "ProceduralToolkit.meta" "ProceduralToolkit/" "New Prefab.prefab.meta" "New Prefab.prefab" "lightTest.unity.meta" "lightTest.unity" "lightTest.meta" "lightTest/" "Glow Effect.meta" "Glow Effect/" "Editor.meta" "Editor/" "Code.meta" "Code/" "APLS.meta" "APLS/" "_mats.meta" "_mats/" "../" "./")
+
+ ("/Users/Discovery/Unity/Test/" (22153 43882 0 0) "Test.sln" "ProjectSettings/" "Library/" "Assets/" "Assembly-CSharp.csproj" "Assembly-CSharp-firstpass.csproj" "Assembly-CSharp-Editor.csproj" "../" "./")
+
+ ("/Users/Discovery/Unity/" (22153 46285 0 0) "World/" "Testing/" "Test/" "Orb/" "Garden.zip" "DrifterSRC.zip" "Drifter/" "DL/" "Backup/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Notes/" (22153 50586 0 0) "Wishlist.md" "Weekly.md" "Scratch.md" "Projects/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

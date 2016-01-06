@@ -55,4 +55,7 @@
 (fset 'yes-or-no-p 'y-or-n-p)
 
 ;; Go straight to scratch buffer on startup
-(setq inhibit-startup-message t)                   
+(setq inhibit-startup-message t)             
+
+
+(setq default-tab-width 4)      

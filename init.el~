@@ -37,7 +37,7 @@
 (load "shell-integration.el")
 (load "navigation.el")
 (load "ui.el")
-(load "modes.el")
+;; (load "modes.el")
 
 ;; My tweaks
 (load "keybindings.el")

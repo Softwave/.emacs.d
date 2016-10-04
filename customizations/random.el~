@@ -14,8 +14,6 @@
 ;; C indentation is 4
 (setq c-default-style "bsd"
       c-basic-offset 4)
-(c-set-offset 'case-label '+)
-
 
 ;; CSS Indenting
 (setq css-intent-offset 4)

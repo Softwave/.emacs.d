@@ -1,4 +1,5 @@
-;; Custom keybindings for emacs
+;; My custom keybindings
 
-;; Delete a whole line with alt-9
+
+; Kill a whole line 
 (global-set-key (kbd "M-9") 'kill-whole-line)

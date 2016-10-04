@@ -1,19 +1,16 @@
+;; UI customizations
+
 (menu-bar-mode -1)
 (global-linum-mode)
 
-;;Toolbar
 (tool-bar-mode -1)
+
+;; Font size
+(set-face-attribute 'default nil :height 140)
 
 ;; Don't show scrollbars
 (when (fboundp 'scroll-bar-mode)
   (scroll-bar-mode -1))
-
-;; Themes
-(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
-(add-to-list 'load-path "~/.emacs.d/themes")
-
-;; Font size
-(set-face-attribute 'default nil :height 140)
 
 (setq ;; makes killing/yanking interact with the clipboard
       x-select-enable-clipboard t
@@ -34,14 +31,8 @@
       ;; Mouse yank commands yank at point instead of at click.
       mouse-yank-at-point t)
 
-;; No cursor blinking, it's distracting
-(blink-cursor-mode 0)
-
 ;; full path in title bar
 (setq-default frame-title-format "%b (%f)")
-
-;; don't pop up font menu
-(global-set-key (kbd "s-t") '(lambda () (interactive)))
 
 ;; no bell
 (setq ring-bell-function 'ignore)

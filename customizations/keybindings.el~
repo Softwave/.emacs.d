@@ -1,0 +1,11 @@
+;; My custom keybindings
+
+
+; Kill a whole line 
+(global-set-key (kbd "M-9") 'kill-whole-line)
+
+
+;; Completion
+(global-set-key (kbd "C-.") 'hippie-expand-no-case-fold)
+(global-set-key (kbd "C-:") 'hippie-expand-lines)
+(global-set-key (kbd "C-,") 'completion-at-point)

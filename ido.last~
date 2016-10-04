@@ -2,86 +2,192 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/Discovery/Desktop/site/my-site/" . "css/")
+ ("/Users/Discovery/Desktop/gbjam/" . "GameBoy/")
+ ("/Users/Discovery/Desktop/learning/emscripten/" . "test/")
+ ("/Users/Discovery/Desktop/learning/SDL/" . "oop/")
+ ("/Users/Discovery/Desktop/site/newsite/" . "_layouts/")
+ ("/Users/Discovery/Desktop/site/softwave.github.io/_sass/" . "partials/")
+ ("/Users/Discovery/Desktop/site/softwave.github.io/" . "css/")
+ ("/Users/Discovery/Desktop/site/" . "my-site/")
+ ("/Users/Discovery/Desktop/learning/SFML/" . "move/")
+ ("/Users/Discovery/Desktop/learning/GLFW/" . "basicWindow/")
+ ("/Users/Discovery/Desktop/learning/" . "SDL/")
+ ("/Users/Discovery/Desktop/c64/hello/" . "code/")
+ ("/Users/Discovery/Desktop/c64/" . "hello/")
+ ("/Users/Discovery/Desktop/chip8/ref/" . "sourcecode/")
+ ("/Users/Discovery/Desktop/sdl/" . "move/")
+ ("/Users/Discovery/Desktop/chip8/" . "mine/")
  ("/Users/Discovery/.emacs.d/" . "customizations/")
- ("/Users/Discovery/Unity/Orb/Assets/" . "_src/")
- ("/Users/Discovery/Unity/Orb/" . "Assets/")
- ("/Users/Discovery/Desktop/" . "temp/")
- ("/Users/" . "Discovery/")
- ("/Users/Discovery/GitHub/" . "emacs.d/")
- ("/Users/Discovery/Notes/" . "Projects/")
- ("/Users/Discovery/Unity/Test/Assets/" . "Code/")
- ("/Users/Discovery/Unity/Test/" . "Assets/")
- ("/Users/Discovery/Unity/" . "Orb/")
+ ("/Users/Discovery/Desktop/" . "learning/")
  ("/Users/Discovery/" . "Desktop/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/Discovery/Desktop/temp/"
+ "/Users/Discovery/Desktop/learning/SDL/qlong/"
+ "/Users/Discovery/Desktop/learning/SDL/oop/"
+ "/Users/Discovery/Desktop/learning/Emacs/"
  "/Users/Discovery/.emacs.d/customizations/"
+ "/Users/Discovery/Downloads/"
+ "/Users/Discovery/Desktop/chip8/mine/"
+ "/Users/Discovery/Desktop/site/my-site/css/"
+ "/Users/Discovery/Desktop/gbjam/GameBoy/"
+ "/Users/Discovery/Desktop/learning/emscripten/test/"
+ "/Users/Discovery/Desktop/learning/SDL/move/"
+ "/Users/Discovery/Desktop/site/newsite/"
+ "/Users/Discovery/Desktop/site/newsite/_layouts/"
+ "/Users/Discovery/Desktop/site/newsite/_includes/"
+ "/Users/Discovery/Desktop/site/newsite/css/"
+ "/Users/Discovery/Desktop/site/newsite/_sass/"
  "/Users/Discovery/.emacs.d/"
- "/Users/Discovery/Unity/Orb/Assets/_src/"
- "/Users/Discovery/Notes/Projects/"
- "/Users/Discovery/Notes/"
- "/Users/Discovery/GitHub/emacs.d/"
- "/Users/Discovery/Unity/Test/Assets/Code/"
+ "/Users/Discovery/Desktop/site/softwave.github.io/"
+ "/Users/Discovery/Desktop/site/softwave.github.io/css/"
+ "/Users/Discovery/Desktop/site/softwave.github.io/_sass/"
+ "/Users/Discovery/Desktop/site/softwave.github.io/_sass/partials/"
+ "/Users/Discovery/Desktop/site/softwave.github.io/_layouts/"
+ "/Users/Discovery/Desktop/site/softwave.github.io/_posts/"
+ "/Users/Discovery/Desktop/learning/SFML/move/"
+ "/Users/Discovery/Desktop/learning/SFML/drawShape/"
+ "/Users/Discovery/Desktop/learning/SFML/basic/"
+ "/Users/Discovery/Desktop/c64/hello/"
+ "/Users/Discovery/Desktop/c64/hello/code/"
+ "/Users/Discovery/Desktop/learning/GLFW/basicWindow/"
+ "/Users/Discovery/Desktop/learning/move/"
+ "/Users/Discovery/Desktop/learning/simple/"
+ "/Users/Discovery/Desktop/sdl/move/"
+ "/Users/Discovery/Desktop/sdl/ui/"
+ "/Users/Discovery/Desktop/c64/intro/"
+ "/Users/Discovery/Desktop/junk/"
+ "/Users/Discovery/Desktop/sdl/mandel/"
+ "/Users/Discovery/Desktop/chip8/test/"
+ "/Users/Discovery/Desktop/chip8/ref/sourcecode/"
+ "/Users/Discovery/Desktop/sdl/basic/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "test.rb"
+ "game.cpp"
+ "game.h"
+ "ball.h"
+ "ball.cpp"
+ "main.cpp"
+ "test.c"
+ "keybindings.el"
+ "main.cc"
  "modes.el"
- "README.md"
- "GameLogic.cs"
- "OrbController.cs"
- "OrbGame.md"
- "Orb.cs"
- "MovingPlatform.cs"
- "Globals.cs"
- "CamController.cs"
+ "main.scss"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/Discovery/Desktop/temp/" (22155 3962 0 0) "test.cs" "shaders/" "noodle.cs" "Demo_274.zip" "Demo_274/" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/learning/SDL/qlong/" (22514 59174 0 0) "thing.png" "Makefile" "main.o" "main.cpp~" "main.cpp" "game.o" "game.h~" "game.h" "game.cpp~" "game.cpp" "bin/" "ball.o" "ball.h~" "ball.h" "ball.cpp~" "ball.cpp" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Desktop/" (22156 6196 0 0) "temp/" "Screen Shot 2016-01-05 at 12.23.31 PM.png" "Screen Shot 2016-01-05 at 12.23.31 PM (2).png" "Screen Shot 2016-01-03 at 11.56.42 PM.png" "Screen Shot 2016-01-02 at 2.25.46 PM.png" "pray/" "minisd/" "gba/" "emacs/" "bgfx/" "2.png" ".localized" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/learning/SDL/oop/" (22514 54537 0 0) "src/" "Makefile" "main.o" "main.cpp~" "main.cpp" "game.o" "game.h~" "game.h" "game.cpp~" "game.cpp" "Example.make" "Default.make" "bin/" ".DS_Store" ".depend" "../" "./")
 
- ("/Users/Discovery/.emacs.d/customizations/" (22154 3246 0 0) "ui.el" "shell-integration.el" "random.el" "navigation.el" "modes.el" "keybindings.el" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/learning/SDL/" (22514 46856 0 0) "ref/" "oop/" "move/" "drawImage/" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/.emacs.d/" (22156 7086 0 0) "themes/" "README.md" "projectile-bookmarks.eld" "init.el" "ido.last~" "ido.last" "elpa/" "customizations/" "auto-save-list/" ".smex-items" ".recentf~" ".recentf" ".gitignore" ".git/" ".DS_Store" "../" "./")
+ ("/Users/Discovery/.emacs.d/customizations/" (22514 43623 0 0) "ui.el" "shell-integration.el" "random.el~" "random.el" "navigation.el" "modes.el~" "modes.el" "keybindings.el~" "keybindings.el" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Unity/" (22155 19582 0 0) "World/" "Testing/" "Test/" "Orb/" "Garden.zip" "DrifterSRC.zip" "Drifter/" "DL/" "Backup/" ".DS_Store" "../" "./")
+ ("/Users/Discovery/.emacs.d/" (22514 43657 0 0) "vendor/" "projectile-bookmarks.eld" "modes/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "customizations/" "auto-save-list/" ".smex-items" ".recentf~" ".recentf" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Unity/Orb/Assets/_src/" (22155 19249 0 0) "PlatTest.js~" "PlatTest.js.meta" "PlatTest.js" "OrbController.cs~" "OrbController.cs.meta" "OrbController.cs" "Orb.cs~" "Orb.cs.meta" "Orb.cs" "MovingPlatform.cs~" "MovingPlatform.cs.meta" "MovingPlatform.cs" "Globals.cs.meta" "Globals.cs" "GameLogic.cs~" "GameLogic.cs.meta" "GameLogic.cs" "CameraMouseOrbit.cs.meta" "CameraMouseOrbit.cs" "CamController.cs.meta" "CamController.cs" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/learning/Emacs/" (22514 43745 0 0) "test.c~" "test.c" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Notes/Projects/" (22155 3194 0 0) "SpaceGame/" "Projects.md" "OrbGameProbs.md~" "OrbGameProbs.md" "OrbGame.md~" "OrbGame.md" "Emacs.md~" "Emacs.md" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/learning/" (22514 43666 0 0) "SFML/" "SDL/" "OpenGL/" "Lua/" "GLFW/" "emscripten/" "Emacs/" "cmake/" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Unity/Orb/" (22155 8862 0 0) "Temp/" "ProjectSettings/" "Orb.userprefs" "Orb.sln" "Library/" "Assets/" "Assembly-UnityScript.unityproj" "Assembly-CSharp.csproj" "Assembly-CSharp-firstpass.csproj" "Assembly-CSharp-Editor.csproj" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Downloads/" (22514 43434 0 0) "tonk" "test.c~" "test.c" "test/" "srcDL/" "SFML-master.zip" "SFML-master/" "sdfsdfds" "researcher-gh-pages.zip" "python2" "junk.css" "irrlicht-1.8.4.zip" "irrlicht-1.8.4/" "installgoogledrive.dmg" "GQE-v0_22_6.zip" "GQE-v0_22_6/" "glfw-3.2.1.zip" "glfw-3.2.1/" "gameboydl/" "emsdk_portable/" "emsdk-portable.tar.gz" "bgb.zip" "bgb/" ".localized" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/.emacs.d/elpa/" (22154 5939 0 0) "with-editor-2.3.1/" "tagedit-1.4.0/" "spinner-1.4/" "smex-3.0/" "seq-1.11/" "s-1.10.0/" "queue-0.1.1/" "projectile-0.13.0/" "popup-20151222.1339/" "pkg-info-0.6/" "paredit-24/" "omnisharp-20151210.1114/" "markdown-mode-2.0/" "magit-popup-2.3.1/" "magit-2.3.1/" "let-alist-1.0.4/" "ido-ubiquitous-3.10/" "ido-completing-read+-3.10/" "git-commit-2.3.1/" "flycheck-20160102.855/" "exec-path-from-shell-1.10/" "epl-71.4.8098/" "dash-20151216.1315/" "dash-2.12.1/" "csharp-mode-0.8.11/" "company-20160103.737/" "clojure-mode-extra-font-locking-5.0.1/" "clojure-mode-5.0.1/" "cider-0.10.0/" "auto-complete-20151227.354/" "async-1.6/" "archives/" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/site/my-site/css/" (22514 41906 0 0) "normalize.css" "main.scss~" "main.scss" "../" "./")
 
- ("/Users/Discovery/.emacs.d/elpa/csharp-mode-0.8.11/" (22155 3853 0 0) "csharp-mode.elc" "csharp-mode.el" "csharp-mode-pkg.elc" "csharp-mode-pkg.el" "csharp-mode-autoloads.el~" "csharp-mode-autoloads.el" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/site/my-site/" (22514 30892 0 0) "work.md" "serve.txt" "js/" "index.html" "images/" "css/" "contact.md" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_drafts/" "_config.yml" ".sass-cache/" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Unity/Orb/Assets/" (22155 1139 0 0) "Textures.meta" "Textures/" "Standard Assets.meta" "Standard Assets/" "Sounds.meta" "Sounds/" "ProCore.meta" "ProCore/" "Models.meta" "Models/" "Materials.meta" "Materials/" "lrTest.unity.meta" "lrTest.unity" "Glow Effect.meta" "Glow Effect/" "Game Jam Menu Template.meta" "Game Jam Menu Template/" "Editor.meta" "Editor/" "_src.meta" "_src/" "_scenes.meta" "_scenes/" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/site/" (22513 34032 0 0) "softwave.github.io/" "newsite/" "my-site/" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Notes/" (22154 60956 0 0) "Wishlist.md" "Weekly.md" "Scratch.md" "Projects/" "Passwords.md" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/gbjam/" (22514 41306 0 0) "GameBoy/" "examples/" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Desktop/emacs/" (22153 36120 0 0) "oldemacs/" "new/" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/gbjam/GameBoy/" (22514 41426 0 0) "tools/" "test.sym" "test.map" "test.lst" "test.gb" "test.c" "sprite.sym" "sprite.map" "sprite.lst" "sprite.gb" "sprite.c" "Robot.sym" "Robot.map" "Robot.lst" "Robot.gb" "Robot.c" "README.md" "Makefile" "LICENSE" "input.sym" "input.map" "input.lst" "input.gb" "input.c" "gbdk/" "Game.sym" "Game.map" "Game.lst" "Game.gb" "Game.c~" "Game.c" "Export.h" "Export.c" "build.sh" ".DS_Store" "../" "./")
 
- ("/Users/" (22029 41274 0 0) "Shared/" "Guest/" "Discovery/" ".localized" "../" "./")
+ ("/Users/Discovery/Desktop/" (22514 39603 0 0) "zap.jpg" "wonk/" "site/" "sdl/" "Screen Shot 2016-09-29 at 5.46.26 PM.png" "Screen Shot 2016-09-29 at 5.45.37 PM.png" "Screen Shot 2016-09-29 at 5.21.42 PM.png" "Screen Shot 2016-09-29 at 3.31.02 PM.png" "Screen Shot 2016-09-29 at 3.28.20 PM.png" "Screen Shot 2016-09-28 at 6.09.58 PM.png" "Screen Shot 2016-09-28 at 1.10.19 PM.png" "s/" "Onedolar2009series.jpg" "learning/" "junk/" "gbjam/" "emacsCustomizing/" "ComputerBooks/" "chip8/" "c64/" ".localized" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/GitHub/emacs.d/" (22154 6977 0 0) "themes/" "README.md" "projectile-bookmarks.eld" "init.el" "ido.last~" "ido.last" "elpa/" "customizations/" "auto-save-list/" ".git/" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/learning/emscripten/test/" (22514 38814 0 0) "../" "./")
 
- ("/Users/Discovery/GitHub/" (22154 6423 0 0) "softwave.github.io/" "serve.sh" "OpenFrameworks-Lab/" "openFrameworks/" "Lab/" "emacs.d/" "close-others/" "anything.js/" ".DS_Store" "../" "./")
+ ("/Users/Discovery/Desktop/learning/emscripten/" (22514 38816 0 0) "test/" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Unity/Test/Assets/Code/" (22154 5536 0 0) "RotateCube.cs~" "RotateCube.cs.meta" "RotateCube.cs" "#RotateCube.cs#" "../" "./")
+ ("/Users/Discovery/" (22514 38753 0 0) "~/" "Workspace/" "Wine Files/" "VirtualBox VMs/" "Unity/" "SoftWave/" "Scripts/" "Public/" "Projects/" "Pictures/" "Notes/" "Nightmod/" "Music/" "Movies/" "mm.cfg" "midiyodi30.xml" "lmms/" "Library/" "IdeaProjects/" "hs_err_pid7113.log" "haxelib/" "Google Drive/" "GitHub/" "eclipse/" "Dropbox/" "Downloads/" "DOS Games/" "DOS/" "Documents/" "Desktop/" "Design/" "Code/" "Calibre Library/" "Applications/" ".zbstudio/" ".Xauthority" ".wapi/" ".vimrc" ".viminfo" ".Trash/" ".tooling/" ".thumbnails/" ".subversion/" ".ssh/" ".spaceship/" ".sonic-pi/" ".slap/" ".rolodex/" ".rnd" ".rbenv/" ".rainbow_oauth" ".rainbow_config.json" ".python_history" ".pyenv/" ".plotly/" ".planck_history" ".p2/" ".overtone/" ".oracle_jre_usage/" ".npmrc" ".npm/" ".node_repl_history" ".node-gyp/" ".matplotlib/" ".m2/" ".local/" ".lmmsrc.xml" ".lldb/" ".libgdx/" ".lein/" ".lcs/" ".irssi/" ".image.so" ".idlerc/" ".hyperterm_plugins/" ".hyperterm.js" ".hxcpp_config.xml" ".haxelib" ".gradle/" ".godot/" ".gnuplot_history" ".gitconfig" ".gervill/" ".gem/" ".festival_history" ".emscripten_sanity" ".emscripten_cache.lock" ".emscripten_cache/" ".emscripten" ".emacs.d/" ".eclipse/" ".DS_Store" ".dropbox/" ".did_show_opt_info" ".dia-etc/" ".defold/" ".config/" ".coffee_history" ".cocoapods/" ".chocolate-doom/" ".CFUserTextEncoding" ".cache/" ".bundle/" ".bash_sessions/" ".bash_profile~" ".bash_profile.pysave" ".bash_profile" ".bash_history" ".atom/" ".appointment" ".android/" "dgs/" "../" "./")
 
- ("/Users/Discovery/" (22154 4113 0 0) "xgen/" "Workspace/" "Wine Files/" "VirtualBox VMs/" "Unity/" "tidal/" "Starters/" "src/" "Shaders/" "Scripts/" "ScratchPad.md" "quicklisp/" "Public/" "Projects/" "Pictures/" "OpenGL/" "Notes/" "Music/" "Movies/" "Local/" "Library/" "Learning3/" "Learning/" "GitHub/" "em/" "eclipse/" "Downloads/" "DOS Games/" "DOS/" "Documents/" "Dirt/" "Desktop/" "cowsay" "Code/" "Calibre Library/" "Books/" "bin/" "Backups/" "Art/" "Applications/" "anaconda/" "Adlm/" "_geexlab_log.txt" ".zshrc" ".zlogin" ".Xauthority" ".wapi/" ".vscode/" ".viminfo" ".Trash/" ".tooling/" ".thumbnails/" ".swp" ".subversion/" ".ssh/" ".sonic-pi.el/" ".sonic-pi/" ".slap/" ".sbclrc" ".rvm/" ".rnd" ".profile" ".p2/" ".overtone/" ".oracle_jre_usage/" ".npm/" ".node_repl_history" ".node-gyp/" ".mplayer/" ".mkshrc" ".matplotlib/" ".m2/" ".local/" ".lldb/" ".libgdx/" ".lein/" ".jupyter/" ".joe_state" ".irssi/" ".ipython/" ".gitconfig" ".ghc/" ".gem/" ".emscripten_sanity" ".emscripten_cache/" ".emscripten" ".emacs.d/" ".emacs-live-installer-tmp/" ".elm/" ".eclipse/" ".DS_Store" ".droiD64.cfg" ".continuum/" ".config/" ".CFUserTextEncoding" ".cache/" ".cabal/" ".boot/" ".blue/" ".bashrc" ".bash_sessions/" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_history" ".atom/" ".astropy/" ".appletviewer" "#ScratchPad.md#" "../" "./")
+ ("/Users/Discovery/Desktop/learning/SDL/move/" (22510 52973 0 0) "thing.png" "Makefile~" "Makefile" "main.cpp~" "main.cpp" "hello_world.bmp" "build.sh" "bin/" "basicDraw.cpp" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Unity/Test/Assets/" (22152 17849 0 0) "testScene.unity.meta" "testScene.unity" "Standard Assets.meta" "Standard Assets/" "ProceduralToolkit.meta" "ProceduralToolkit/" "New Prefab.prefab.meta" "New Prefab.prefab" "lightTest.unity.meta" "lightTest.unity" "lightTest.meta" "lightTest/" "Glow Effect.meta" "Glow Effect/" "Editor.meta" "Editor/" "Code.meta" "Code/" "APLS.meta" "APLS/" "_mats.meta" "_mats/" "../" "./")
+ ("/Users/Discovery/Desktop/site/newsite/" (22513 33279 0 0) "serve.txt" "indexOld.html" "index.html~" "index.html" "feed.xml" "css/" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" ".sass-cache/" ".gitignore" ".DS_Store" "../" "./")
 
- ("/Users/Discovery/Unity/Test/" (22153 43882 0 0) "Test.sln" "ProjectSettings/" "Library/" "Assets/" "Assembly-CSharp.csproj" "Assembly-CSharp-firstpass.csproj" "Assembly-CSharp-Editor.csproj" "../" "./")
+ ("/Users/Discovery/Desktop/site/newsite/_includes/" (22513 33153 0 0) "icon-twitterOld.svg" "icon-twitterOld.html" "icon-twitter.svg" "icon-twitter.html" "icon-githubOld.svg" "icon-githubOld.html" "icon-github.svg" "icon-github.html" "headOld.html" "headerOld.html" "header.html~" "header.html" "head.html" "footerOld.html" "footer.html" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/site/newsite/_layouts/" (22513 32951 0 0) "postOld.html" "post.html" "pageOld.html" "page.html" "defaultOld.html" "default.html~" "default.html" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/site/newsite/_sass/" (22513 32484 0 0) "_syntax-highlightingOld.scss" "_syntax-highlighting.scss" "_layoutOld.scss" "_layout.scss" "_baseOld.scss" "_base.scss" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/site/newsite/css/" (22513 32376 0 0) "mainOld.scss" "main.scss~" "main.scss" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/site/softwave.github.io/css/" (22417 15367 0 0) "old.scss" "main.scss" "images/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/site/softwave.github.io/_sass/partials/" (22417 15300 0 0) "_variables.scss" "_syntax.scss" "_reset.scss" "_mixins.scss" "_layout.scss" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/site/softwave.github.io/_sass/" (22513 30565 0 0) "partials/" "_tachyons.scss" "_syntax.scss" "_syntax-highlighting.scss" "_syntax-highlighting-old.scss" "_mixins.scss" "_layoutOld.scss" "_layout.scss" "_colors.scss" "_bassOld.scss" "_base.scss" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/site/softwave.github.io/_layouts/" (22513 30248 0 0) "postOld.html" "post.html" "pageOld.html" "page.html" "gallery.html" "defaultOld.html" "default.html" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/site/softwave.github.io/_posts/" (22513 30100 0 0) "2016-10-02-test.md~" "2016-10-02-test.md" "2016-08-25-ludum.markdown" "2016-07-23-threeembed.md" "2016-07-21-superformula.markdown" "2016-07-21-spirals.markdown" "2016-07-21-lambda.markdown" "2016-07-21-drifter.markdown" "2016-02-05-c64-coding-resources.md" "2015-12-08-forth.md" "2015-10-01-lambda-calculus.md" "2015-09-22-sonic-pi.md" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/site/softwave.github.io/" (22513 29825 0 0) "work.md" "readme.txt" "js/" "indexOld.html" "index.html" "images/" "feed.xml" "css/" "CNAME" "blog.md" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" ".sass-cache/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Downloads/test/" (22513 24387 0 0) "SDL2-2.0.4.zip" "SDL2-2.0.4/" "GameBoy-master.zip" "GameBoy-master/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Downloads/test/GameBoy-master/" (22513 22126 0 0) "test.sym" "test.map" "test.lst" "test.gb" "test.c" "sprite.sym" "sprite.map" "sprite.lst" "sprite.gb" "sprite.c" "Robot.sym" "Robot.map" "Robot.lst" "Robot.gb" "Robot.c" "README.md" "Makefile" "LICENSE" "input.sym" "input.map" "input.lst" "input.gb" "input.c" "gbdk/" "Export.h" "Export.c" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/learning/SFML/move/" (22513 16513 0 0) "Makefile" "../" "./")
+
+ ("/Users/Discovery/Desktop/learning/SFML/" (22513 16505 0 0) "move/" "drawShape/" "basic/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/learning/SFML/drawShape/" (22512 2801 0 0) "Makefile" "main.cpp~" "main.cpp" "bin/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/chip8/mine/" (22509 42857 0 0) "tetris.c8" "starfield.c8.bin" "starfield.bin" "pong2.c8" "PONG" "out.txt" "notes.txt~" "notes.txt" "main.cc~" "main.cc" "invaders.c8" "INVADERS" "hello.bin" "hanoi.bin" "dude.ch8" "dude.c8" "draw.c8" "comp.c8" "c8" "build.sh~" "build.sh" "back5.cc" "back4.cc" "back3.cc" "back2.cc" "back.cc" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/learning/SFML/basic/" (22511 63161 0 0) "../" "./")
+
+ ("/Users/Discovery/Desktop/c64/hello/code/" (22510 35392 0 0) "main.asm" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/c64/hello/" (22511 60759 0 0) "README.md" "index.asm" "code/" "build/" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/learning/GLFW/basicWindow/" (22510 54886 0 0) "window" "main.cc~" "main.cc" "build.sh" "a.out" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/learning/GLFW/" (22510 54507 0 0) "basicWindow/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/learning/move/" (22510 51041 0 0) "thing.png" "Makefile~" "Makefile" "main.cpp~" "main.cpp" "hello_world.bmp" "build.sh" "bin/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/learning/simple/" (22510 46666 0 0) "main.cpp~" "main.cpp" "build.sh~" "build.sh" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/sdl/move/" (22510 46027 0 0) "main.cpp~" "main.cpp" "build.sh" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/sdl/" (22510 45304 0 0) "ui/" "move/" "mandel/" "dl/" "basic/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/sdl/ui/" (22510 37262 0 0) "../" "./")
+
+ ("/Users/Discovery/Desktop/c64/" (22510 34110 0 0) "intro/" "hello/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/c64/intro/" (22510 33997 0 0) "resources/" "README.md" "index.asm" "code/" "build/" "../" "./")
+
+ ("/Users/Discovery/Desktop/junk/" (22507 65258 0 0) "zip.c~" "zip.c" "test.c" "test" "noodle.c~" "noodle.c" "floop.c" "21st-century-pong-master.zip" "21st-century-pong-master/" ".DS_Store" "#wonk.c#~" "#wonk.c#" "#noodle.c#" "../" "./")
+
+ ("/Users/Discovery/Desktop/sdl/mandel/" (22509 30526 0 0) "main.cpp" "build.sh" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/chip8/test/" (22509 17055 0 0) "../" "./")
+
+ ("/Users/Discovery/Desktop/chip8/" (22509 17056 0 0) "test/" "ref/" "other/" "mine/" "games/" "examples/" "bp/" "bisqwit/" "backups/" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/chip8/ref/sourcecode/" (22508 3436 0 0) "main.cpp" "chip8.h" "chip8.cpp" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/chip8/ref/" (22509 14178 0 0) "thing.txt" "temp.cpp" "sourcecode/" "my/" "dudedump.txt" "drawdump.txt" "chip8.cc" "c8sdl.c" "c8.cc" "back3.cc" "asm.cc" ".DS_Store" "../" "./")
+
+ ("/Users/Discovery/Desktop/sdl/basic/" (22508 60 0 0) "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

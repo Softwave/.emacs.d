@@ -2,6 +2,13 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/jess/Documents/GitHub/Edwardianiser/pages/" . "api/")
+ ("/home/jess/Documents/GitHub/Edwardianiser/" . "pages/")
+ ("/home/jess/Documents/GitHub/" . "Edwardianiser/")
+ ("/home/jess/Documents/" . "GitHub/")
+ ("/home/jess/.emacs.d/" . "customizations/")
+ ("/home/jess/Dev/" . "fib/")
+ ("/home/jess/" . "Documents/")
  ("/Users/Discovery/Desktop/site/my-site/" . "css/")
  ("/Users/Discovery/Desktop/gbjam/" . "GameBoy/")
  ("/Users/Discovery/Desktop/learning/emscripten/" . "test/")
@@ -25,6 +32,13 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/jess/.emacs.d/customizations/"
+ "/home/jess/.emacs.d/"
+ "/home/jess/Documents/GitHub/Edwardianiser/pages/api/"
+ "/home/jess/Documents/GitHub/Edwardianiser/pages/"
+ "/home/jess/Downloads/"
+ "/home/jess/Dev/fib/"
+ "/home/jess/"
  "/Users/Discovery/Desktop/learning/SDL/qlong/"
  "/Users/Discovery/Desktop/learning/SDL/oop/"
  "/Users/Discovery/Desktop/learning/Emacs/"
@@ -67,20 +81,44 @@
 
 ;; ----- ido-work-file-list -----
 (
- "game.cpp"
- "game.h"
- "ball.h"
- "ball.cpp"
- "main.cpp"
- "test.c"
- "keybindings.el"
- "main.cc"
+ "lsp.el"
+ "init.el"
  "modes.el"
- "main.scss"
+ "generate.js"
+ "index.js"
+ "keybindings.el"
+ "Area_Circle.f"
+ "test.clj"
+ "random.el"
+ "fib.c"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/jess/.emacs.d/" (25606 42322 747892 316000) "init.el" "init.el~" "ido.last" "ido.last~" "copilot/" "quelpa/" "network-security.data" "auto-save-list/" "#init.el#" ".recentf" ".smex-items" "eln-cache/" "projectile-bookmarks.eld" "modes/" "elpa/" "customizations/" "../" "./")
+
+ ("/home/jess/" (25606 42202 673696 879000) "#test.cpp#" ".bash_history" ".clojure/" ".lesshst" "#noodle.cpp#" "#zap.cpp#" "zap.cpp" "#cow.txt#" "test.css" ".Xauthority" "noodle.cpp" "test2.js" "cow.txt" "cowsay" ".vim/" "test.cpp" "test.c" ".viminfo" ".steampid" ".steampath" ".m2/" "IdeaProjects/" ".android/" ".java/" ".python_history" "libreoffice/" "gdrive/" ".cgnstools" "nltk_data/" ".omnisharp/" ".deno/" "rpmbuild/" "2023-02-24 17-09-27.mkv" "2023-02-24 17-04-41.mkv" ".audacity-data/" "#*message*-20230224-154712#" ".emacs.d/" ".anaconda/" ".conda/" "anaconda3/" "My project (1)/" "MyPrograms/" ".gnome/" ".steam/" "Qt/" ".designer/" "test.txt" ".plastic4/" "My project/" ".nuget/" "MyApp/" ".templateengine/" ".wine/" "Unity/" ".wget-hsts" "Emu/" ".ipython/" ".condarc" ".continuum/" ".keras/" ".w3m/" ".gkrellm2/" ".npm/" ".gtk-bookmarks" ".gitconfig" "Dev/" "bin/" ".var/" ".themes/" ".icons/" "gtk+qt-dot-files-before-nscde-changes-20-02-2023_11-30-54.tar" ".xscreensaver" ".NsCDE/" ".gnupg/" ".ICEauthority" ".gtkrc-2.0-kde4" ".gtkrc-2.0" ".nvidia-settings-rc" ".wezterm.lua" "alacritty/" ".dotnet/" ".vscode/" ".nv/" ".rustup/" ".profile" ".cargo/" ".intel/" "intel/" ".fonts/" ".fonts.conf" ".pki/" ".fontconfig/" "Videos/" "Pictures/" "Music/" "Documents/" "Public/" "Downloads/" "Desktop/" ".config/" "Templates/" ".xsession-errors" ".cache/" ".local/" ".bashrc" ".bash_profile" ".bash_logout" ".mozilla/" "../" "./")
+
+ ("/home/jess/Documents/GitHub/Edwardianiser/pages/api/" (25604 8212 860214 829000) "generate.js" "../" "./")
+
+ ("/home/jess/Documents/GitHub/Edwardianiser/pages/" (25604 8212 860214 829000) "index.module.css" "index.js" "api/" "../" "./")
+
+ ("/home/jess/Documents/GitHub/Edwardianiser/" (25604 10305 340461 141000) ".env" "README.md" "package-lock.json" "package.json" "netlify.toml" "LICENSE" ".gitignore" ".env.example" "_static/" "public/" "pages/" "node_modules/" ".next/" ".git/" ".netlify/" "../" "./")
+
+ ("/home/jess/Documents/GitHub/" (25604 8277 305955 347000) "openaikey.txt" "Edwardianiser/" "softwave.github.io/" "dfgdf.io/" "Softwave/" "../" "./")
+
+ ("/home/jess/Documents/" (25605 7934 920284 85000) "stripe_backup_code.txt" "Obsidian Vault/" "Udemy/" "NVIDIA Nsight Compute/" "GitHub/" "../" "./")
+
+ ("/home/jess/.emacs.d/customizations/" (25606 36844 951941 353000) "#keybindings.el#" "modes.el" "modes.el~" "random.el" "random.el~" "ui.el" "ui.el~" "shell-integration.el" "navigation.el" "keybindings.el~" "keybindings.el" "../" "./")
+
+ ("/home/jess/Downloads/" (25606 36291 193982 274000) "test.clj" "linux-install-1.11.1.1252.sh" "bak/" "emacs.d-master/" "emacs.d-master.zip" "softwave.vim" "tumblr_2110e39ebf10061f541249d62658682c_9704be95_1280.jpg" "IM_Fell_English,Playfair_Display.zip" "changemind/" "index-949b34c520f803f2.js" "_error-dfcfa5bb62767c20.js" "_app-df511a3677d160f6.js" "index.html" "McCain_Quoting_Settlers.mp3" "AdobeStock_389664501.jpeg" "oldGen.js" "ball.c.js" "Brian W. Kernighan, Dennis M. Ritchie - C Programming Language -Prentice Hall (1988).pdf" "ball" "ball.c" "raylib/" "mesa/" "shondo/" "godotdemos/" "Dongo/" "glass_tty_vt220.ttf" "Godot_v4.0-stable_mono_linux_x86_64.zip" "Godot_v4.0-stable_linux.x86_64.zip" "Screenshot_2023-03-01_01-01-16.png" "Area_Circle.f" "test.c" "idea-IC-223.8617.56/" "ideaIC-2022.3.2.tar.gz" "jdk-19_linux-x64_bin.rpm" "LibreOffice_7.5.0.3_Linux_x86-64_rpm/" "LibreOffice_7.5.0_Linux_x86-64_rpm.tar.gz" "part/" "client_secret_67904316503-p8idora52tt27bs4oethojcu0jnkoapl.apps.googleusercontent.com.json" "overgrive-3.5.0.noarch.rpm" "insync-dolphin-3.7.9.50368-1.noarch.rpm" "insync-3.8.4.50481-fc37.x86_64.rpm" "Denis Rothman - Transformers for Natural Language Processing_ Build innovative deep neural network architectures for NLP with Python, PyTorch, TensorFlow, BERT, RoBERTa, and more-Packt Publishing Ltd .pdf" "Lewis Tunstall, Leandro von Werra, Thomas Wolf - Natural Language Processing with Transformers_ Building Language Applications with Hugging Face-O'Reilly Media (2022).pdf" "Lewis Tunstall, Leandro von Werra, Thomas Wolf - Natural Language Processing with Transformers_ Building Language Applications with Hugging Face-O'Reilly Media (2022).epub" "iPhone.mp4" "testRust/" "mandel.py" "pyxel_examples/" "junkrust/" "godot-1.png" "godot-1.svg" "test.ts" "processing-4.2-linux-x64.tgz" "aseprite-1.2.40-2.x86_64.rpm" "Aseprite_1.2.40-1_amd64.deb" "davin/" "../" "./")
+
+ ("/home/jess/.emacs.d/modes/" (25606 19996 767354 669000) "acme-mode.el" "../" "./")
+
+ ("/home/jess/Dev/fib/" (25589 29343 355322 53000) "fib" "fib.c" "../" "./")
+
+ ("/home/jess/Dev/" (25601 21982 532987 527000) "chatgpt/" "DateCompare/" "PR0BE/" "LilGame/" "Godot/" "Creds/" "PigmentPicker/" "Notebooks/" "mydear/" "StarFlyer2/" "Unity/" "tauri/" "radix2/" "soundwave/" "mlnet/" "fib/" "junk/" "cube/" "../" "./")
+
  ("/Users/Discovery/Desktop/learning/SDL/qlong/" (22514 59174 0 0) "thing.png" "Makefile" "main.o" "main.cpp~" "main.cpp" "game.o" "game.h~" "game.h" "game.cpp~" "game.cpp" "bin/" "ball.o" "ball.h~" "ball.h" "ball.cpp~" "ball.cpp" ".DS_Store" "../" "./")
 
  ("/Users/Discovery/Desktop/learning/SDL/oop/" (22514 54537 0 0) "src/" "Makefile" "main.o" "main.cpp~" "main.cpp" "game.o" "game.h~" "game.h" "game.cpp~" "game.cpp" "Example.make" "Default.make" "bin/" ".DS_Store" ".depend" "../" "./")

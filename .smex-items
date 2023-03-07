@@ -1,0 +1,24 @@
+
+;; ----- smex-history -----
+(
+ lsp
+ package-install
+ company-mode
+ copilot-mode
+ shell
+ cua-mode
+ clojure-mode
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 17)
+ (package-refresh-contents . 2)
+ (line-number-mode . 1)
+ (clojure-mode . 1)
+ (cua-mode . 1)
+ (shell . 1)
+ (copilot-mode . 1)
+ (company-mode . 2)
+ (lsp . 2)
+)

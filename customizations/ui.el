@@ -1,12 +1,15 @@
 ;; UI customizations
 
-(menu-bar-mode -1)
+;(menu-bar-mode 1)
 (global-linum-mode)
 
-(tool-bar-mode -1)
+;(tool-bar-mode -1)
+
+;; Set font
+(set-frame-font "Cozette" nil t)
 
 ;; Font size
-(set-face-attribute 'default nil :height 140)
+;(set-face-attribute 'default nil :height 140)
 
 ;; Don't show scrollbars
 (when (fboundp 'scroll-bar-mode)

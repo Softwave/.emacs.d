@@ -3,10 +3,23 @@
 ;(menu-bar-mode 1)
 (global-linum-mode)
 
+
+;; Colour line numbers
+(add-hook 'prog-mode-hook 'highlight-numbers-mode)
+;; Highlight operators
+(add-hook 'prog-mode-hook 'highlight-operators-mode)
+(add-hook 'prog-mode-hook 'highlight-parentheses-mode)
+
+;; Some modes I like 
+(cua-mode t)
+(electric-pair-mode 1)
+
 ;(tool-bar-mode -1)
 
 ;; Set font
-(set-frame-font "Cozette" nil t)
+;set-frame-font "Cozette" nil t)
+(set-frame-font "-*-vga-normal-*-normal-*-*-*-*-*-*-*-*-*" nil t)
+;(set-frame-font "-ibm-vga-normal-r-normal--16-120-96-96-c-80-iso10646-1" nil t)
 
 ;; Font size
 ;(set-face-attribute 'default nil :height 140)

@@ -1,24 +1,49 @@
 
 ;; ----- smex-history -----
 (
- lsp
- package-install
- company-mode
  copilot-mode
- shell
- cua-mode
- clojure-mode
+ electric-pair-mode
+ custom-theme-visit-theme
+ lsp
+ omnisharp-mode
+ global-highlight-parentheses-mode
+ highlight-parentheses-mode
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 17)
+ (package-install . 28)
  (package-refresh-contents . 2)
  (line-number-mode . 1)
  (clojure-mode . 1)
- (cua-mode . 1)
- (shell . 1)
- (copilot-mode . 1)
+ (cua-mode . 6)
+ (shell . 2)
+ (copilot-mode . 36)
  (company-mode . 2)
- (lsp . 2)
+ (lsp . 45)
+ (org-decrypt-entries . 1)
+ (eval-buffer . 1)
+ (tetris . 1)
+ (kickasm-mode . 3)
+ (term . 2)
+ (lsp-diagnostics-mode . 4)
+ (lsp-disconnect . 3)
+ (customize-face . 1)
+ (lsp-ui-mode . 1)
+ (pyvenv-activate . 1)
+ (package-autoremove . 2)
+ (package-menu-mark-delete . 1)
+ (lsp-mode . 4)
+ (lsp-install-server . 3)
+ (omnisharp-mode . 3)
+ (csharp-mode . 4)
+ (unity-mode . 1)
+ (customize-create-theme . 4)
+ (customize-themes . 1)
+ (custom-theme-visit-theme . 5)
+ (highlight-numbers-mode . 1)
+ (highlight-operators-mode . 1)
+ (highlight-parentheses-mode . 3)
+ (global-highlight-parentheses-mode . 1)
+ (electric-pair-mode . 1)
 )

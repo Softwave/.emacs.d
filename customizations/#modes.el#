@@ -1,0 +1,50 @@
+;; Setting up various modes
+
+;; Load path
+(add-to-list 'load-path "~/.emacs.d/modes")
+
+;; Acme mode
+;(load "acme-mode.el")
+
+;; Kickass mode
+(load "kickasm-mode.el")
+(require 'kickasm-mode) 
+
+;; SASS mode
+(add-to-list 'auto-mode-alist '("\\.scss\\'" . css-mode))
+
+;; C Mode customization
+
+
+;; Python stuff
+;(setq lsp-diagnostic-package :none)
+;(setq lsp-pylsp-plugins-flake8-enabled nil)
+;(setq lsp-pylsp-plugins-pydocstyle-enabled nil)
+;(setq lsp-pylsp-plugins-pylint-enabled nil)
+;(setq lsp-pylsp-plugins-mccabe-enabled nil)
+;(setq lsp-pylsp-plugins-pycodestyle-enabled nil)
+;(setq lsp-pylsp-plugins-autopep8-enabled nil)
+;(setq lsp-pylsp-plugins-yapf-enabled nil)
+
+;(setq lsp-pyls-server-command '("/usr/bin/python"))
+;(setq python-shell-interpreter "/usr/bin/python")
+;(setq lsp-pyls-plugins-pycodestyle-enabled nil)
+;(setq lsp-pyls-plugins-pyflakes-enabled nil)
+
+
+
+
+
+
+
+;; Copilot Mode
+(add-to-list 'load-path "~/.emacs.d/copilot/copilot.el")
+(require 'copilot)
+;; Tab-accept using autocomplete
+(with-eval-after-load 'company
+  ;; disable inline previews
+  (delq 'company-preview-if-just-one-frontend company-frontends))
+  
+(define-key copilot-completion-map (kbd "<tab>") 'copilot-accept-completion)
+;(define-key copilot-completion-map (kbd "TAB") 'copilot-accept-completion)
+
